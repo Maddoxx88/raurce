@@ -1,6 +1,6 @@
 <h1 align="center"> Raurce </h1> <br>
 <p align="center">
-    <img alt="Raurce" title="Raurce" src="https://drive.google.com/uc?export=view&id=1O9W48KAE75-TKxo8vDAjtmjP1A2fIzLs" width="450">
+    <img alt="Raurce" title="Raurce" src="https://drive.google.com/uc?export=view&id=1O9W48KAE75-TKxo8vDAjtmjP1A2fIzLs" width="350">
 </p>
 
 <p align="center">
@@ -32,7 +32,19 @@ Contributions, issues and feature requests are welcome. <br/>
 Feel free to check the [issues page](https://github.com/Maddoxx88/raurce/issues). <br/>
 Please take a look at the [contributing guidelines](./CONTRIBUTING.md) for a detailed process on how to submit your pull requests.
 
-## Show you support 
+## Contributors
+
+<p align="left">
+    <a href="https://github.com/acervenky">
+        <img src="https://avatars1.githubusercontent.com/u/3079536?s=460&u=124117513fe23f2007e39d2a9a3f5ac29fe914b2&v=4" width="50" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/localhoax">
+        <img src="https://avatars1.githubusercontent.com/u/25924682?s=460&u=712e6fc63e0e0aa07b6608950152047f04e3c610&v=4" width="50" />
+    </a>
+</p>
+
+## Show your support 
 
 Give a ⭐ if this project helped you in any way possible.
 <p align="left">
