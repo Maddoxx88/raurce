@@ -20,17 +20,22 @@
 
 `yarn serrve`
 
-## Author
+## 👾 Author
 
 <a href="https://twitter.com/intent/follow?screen_name=sunitshirke_88">
   <img src="https://img.shields.io/twitter/follow/sunitshirke_88?color=1DA1F2&logo=twitter&style=for-the-badge" />
 </a>
 
-## Contributing 
+##  🛠 Contributing 
 
 Contributions, issues and feature requests are welcome. <br/>
 Feel free to check the [issues page](https://github.com/Maddoxx88/raurce/issues). <br/>
 Please take a look at the [contributing guidelines](./CONTRIBUTING.md) for a detailed process on how to submit your pull requests.
+
+## 🖥 Built With
+
+- [Vue CLI](https://cli.vuejs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 ## Contributors
 
