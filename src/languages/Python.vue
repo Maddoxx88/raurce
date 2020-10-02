@@ -23,11 +23,23 @@ export default {
   computed: {
     code() {
       return `import random
-import string
-
-letters = string.ascii_uppercase + string.digits
-result_str = ''.join((random.choice(letters) for i in range(${this.length})))
-print(result_str)`;
+otplen=4
+otpnum=1
+otpchar=1
+otpspc=1
+otp=""
+while len(otp)!=otplen:
+    z=random.randint(1,3)
+    if(z==1 and otpspc==1):
+        s=random.randint(35,37)
+        otp+=chr(s)
+    elif(z==2 and otpchar==1):
+        c=random.randint(65,90)
+        otp+=chr(c)
+    elif(z==3 and otpnum==1):
+        n=random.randint(0,9)
+        otp+=str(n)
+print(otp)`;
     },
   },
 };
