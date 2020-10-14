@@ -18,7 +18,7 @@
 
 ## Usage
 
-`yarn serrve`
+`yarn serve`
 
 ## 👾 Author
 
