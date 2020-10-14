@@ -23,7 +23,7 @@ export default {
   computed: {
     code() {
       return `import random
-otplen=4
+otplen=${this.length}
 otpnum=1
 otpchar=1
 otpspc=1

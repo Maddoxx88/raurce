@@ -1,7 +1,9 @@
 <template>
   <div>
-    <vue-code-highlight language="dart" class="px-10 py-10">{{code}}</vue-code-highlight>
-    <CopyBtn :code = 'code' />
+    <CopyBtn :code="code" />
+    <vue-code-highlight language="dart" class="px-10 py-10">{{
+      code
+    }}</vue-code-highlight>
   </div>
 </template>
 
@@ -11,12 +13,10 @@ import { component as VueCodeHighlight } from "vue-code-highlight";
 import "prism-es6/components/prism-markup-templating";
 import "prism-es6/components/prism-dart";
 
-
-
 export default {
   props: ["length"],
   components: {
-      CopyBtn,
+    CopyBtn,
     "vue-code-highlight": VueCodeHighlight,
   },
   data() {
