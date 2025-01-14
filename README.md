@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Random Source Code Generator for All Lanaguages.
+  Random Source Code Generator for All Programming Lanaguages.
 </p>
 
 ## Prerequisites
